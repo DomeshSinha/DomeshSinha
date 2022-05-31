@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **spring Project**
 
-- 👨‍💻 All of my projects are available at [https://domeshsinha.netlify.app/](https://domeshsinha.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://domeshsinha.netlify.app/](https://domesh-sinha-portfolio.netlify.app/)
 
 - 💬 Ask me about **DSA & Backend Development**
 
