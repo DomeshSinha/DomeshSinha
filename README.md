@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Domesh Sinha</h1>
-<h2>An ambitious, goal-oriented person with experience in effective collaboration and a keen interest in solving problems and coming up with effective solutions. With a good understanding of Data Structures and Algorithms, with a strong hold on Java. Looking forward to starting a challenging journey with a strong focus on building great products in a Tech-based company within the role of a Backend Developer.</h2>
+<h3>An ambitious, goal-oriented person with experience in effective collaboration and a keen interest in solving problems and coming up with effective solutions. With a good understanding of Data Structures and Algorithms, with a strong hold on Java. Looking forward to starting a challenging journey with a strong focus on building great products in a Tech-based company within the role of a Backend Developer.</h3>
 <h3 align="center">A passionate Java Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domeshsinha&label=Profile%20views&color=0e75b6&style=flat" alt="domeshsinha" /> </p>
