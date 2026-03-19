@@ -12,17 +12,14 @@ I’m passionate about solving real-world problems through technology, continuou
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domeshsinha" alt="domeshsinha" /></a> </p>
 
-- 🌱 I’m currently learning **Spring**
-
-- 🤝 I’m looking for help with **spring Project**
 
 - 👨‍💻 All of my projects are available at [https://domesh-sinha-porfolio.netlify.app/](https://domesh-sinha-porfolio.netlify.app/)
 
-- 💬 Ask me about **DSA & Backend Development**
+
 
 - 📫 How to reach me **domesh5555@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ZJOvrHpQt7XbPpd4GPoDGIY_tzvPubhMUSzUHMeTBYo/edit#heading=h.qzikaijoaqqm](https://docs.google.com/document/d/1ZJOvrHpQt7XbPpd4GPoDGIY_tzvPubhMUSzUHMeTBYo/edit#heading=h.qzikaijoaqqm)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1L4tNIISBLzfNTN0cYmuF_vHZbW4Ov4tw/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
